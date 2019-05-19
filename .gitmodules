@@ -4,3 +4,6 @@
 [submodule "st"]
 	path = st
 	url = https://github.com/LCRERGO/st
+[submodule "surf"]
+	path = surf
+	url = https://github.com/LCRERGO/surf
